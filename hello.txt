@@ -1,3 +1,4 @@
 Hola holita Git world!
 Chur esta en Suiza
 Remote änderung
+Conflict
