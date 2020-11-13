@@ -1,3 +1,2 @@
 Hello Git world!
-Basel liegt in der Schweiz
-Basel liegt in der Schweiz
+Chur liegt in der Schweiz
