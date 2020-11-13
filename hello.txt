@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello Git world!
 Chur is in Switzerland
+=======
+Hello git world
+Zug is in Switzerland
+>>>>>>> Bern
