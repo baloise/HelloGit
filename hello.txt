@@ -1,2 +1,5 @@
 Hello Git world
 Chur is in Switzerland
+----
+
+Hi Oli, Simon was here :-)
