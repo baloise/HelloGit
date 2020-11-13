@@ -1,2 +1,2 @@
-Hello Git world!
+Hello Git world
 Chur is in Switzerland
