@@ -1,2 +1,3 @@
 Hello Git World
 Basel ist in Switzerland
+Bern
