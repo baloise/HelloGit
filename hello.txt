@@ -2,3 +2,6 @@
 Hello Git world!
 Chur is in Switzerland
 Bern
+--
+
+Test 1, 2...
