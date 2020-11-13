@@ -1,3 +1,3 @@
 Hello Git world
 Basel is in Switzerland
-Paris est en France
+Paris est en France et Bordeaux aussi
