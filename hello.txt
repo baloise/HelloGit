@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Hello Git world!
 Chur is in Switzerland
+Bern
