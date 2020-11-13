@@ -5,3 +5,7 @@ Bern
 --
 
 Test 1, 2...
+--
+
+
+aaand another test for another file
