@@ -1,2 +1,2 @@
 Hello git world
-Basel is in Switzerland
+Zug is in Switzerland
