@@ -1,2 +1,2 @@
 Hello Git world!
-Basel is in Switzerland
+Chur is in Switzerland
